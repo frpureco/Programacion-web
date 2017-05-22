@@ -1,0 +1,123 @@
+body{
+    font: 14px normal normal uppercase helvetica, arial, serif;
+    background-color:#eff5ba;
+      color:#444; 
+}
+*{
+   /* border: 2px solid red;*/
+    /*padding: 10px 13px 5px 15px;*/
+}
+header{
+  text-align:center;
+  background: url('../../Img/tec2.png');
+  background-size:1500px 250px;
+  padding-top: 1px; 
+  color: #63e863;    
+}
+.form{
+    position:relative;
+    padding-left: 100px;
+    padding-top: 10px;s
+    padding-bottom: 60px;
+    background-color: #1e526f;
+    border-radius: 20px;
+    margin-left: 50px;
+    margin-right: 50px;
+    display: inline-block;    
+}
+.div1{
+    border-color: rgba(127, 255, 0, 0.47);
+    border-style: solid;
+     position: relative;    
+    display:inline-flex;
+    border-radius: 20px;    
+}
+/*
+.div1 input{
+    border-color: #63e863;
+    border-style: solid;
+    position: relative;    
+    display:inline-flex;
+    border-radius: 20px;    
+}
+*/
+
+
+/*
+.div2{
+padding-top: 20px;
+padding-bottom: 50px;
+display: inline-flex;
+position:relative;
+margin-left: 50px;
+margin-top: 10px;
+border-radius: 20px;
+border-style: solid;
+border-color: rgba(127, 255, 0, 0.47);
+}
+*/
+/*
+.div21{        
+    position: relative;
+    display: inline-block;
+}
+.div22{
+    padding-left: 10px;    
+    display: block;
+    position: relative;    
+}
+*/
+a{
+    color: #444;
+}
+/*input[type=text],[type=email]{
+width: 400px;
+height: 35px;
+font: 14px normal normal uppercase helvetica, arial, serif;
+}*/
+ul{
+    padding: 10px;
+/*    background-color: #1e526f;*/
+    background-color:#eff5ba;
+}
+
+li{
+padding: 0px 10px 0px 0px;    
+display: inline;     
+}
+
+h1{
+    font-size: 70px
+}
+
+/*
+input[type=submit]{
+position: relative;
+width: 150px;
+height: 40px;
+border-radius: 50px;
+margin-left: 300px;
+margin-top:inherit; 
+border: 0px;
+background-color: #4ec54e;;
+font: 14px normal normal uppercase helvetica, arial, serif;
+}
+*/
+
+input[type=text]{
+   
+    border-radius:4px;
+}
+p{
+  text-shadow: 0 1px 0 #fff;
+  font-size: 24px;
+}
+
+label{
+margin: 11px 20px 0 0;
+font-size: 16px;
+color: #444;
+text-transform: uppercase;
+}
+
+
